@@ -123,3 +123,9 @@ a:hover {
 a:visited {
     color: #888;
 }
+
+ul {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
